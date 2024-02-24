@@ -8,7 +8,7 @@
 
 <h3 align="left">Codewars:</h3>
 <p align="left">
-https://www.codewars.com/users/RoMMaNjO/badges/large
+<a href="https://www.codewars.com/users/RoMMaNjO"><img src="https://www.codewars.com/users/RoMMaNjO/badges/small"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
