@@ -25,5 +25,3 @@
 <br />
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKlimkovich&show_icons=true)](https://github.com/RKlimkovich/github-readme-stats&show_icons=true)
